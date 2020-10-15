@@ -24,3 +24,7 @@ https://blog.csdn.net/baidu_36600645/article/details/86489816?utm_medium=distrib
 
 百度地图API开发：大量坐标点进行分组聚合
 https://blog.csdn.net/guoweish/article/details/47418953?utm_source=blogxgwz0
+
+
+百度地图点聚合提高效率
+https://blog.csdn.net/ztop_f/article/details/55256003
