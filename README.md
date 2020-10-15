@@ -1,5 +1,6 @@
 # baidu_makercluster
 baidu_makercluster
+聚合  多级聚合 分类聚合
 
 百度地图clusterMarker效率低下的原因，以及解决方案，以及建议
 本人在公司开发过程中使用了百度api的聚类，但是直接调用百度的类后，发现效率特别低下，于是决定看看它代码到底怎么写的，并做了如下修改。
