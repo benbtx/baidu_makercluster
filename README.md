@@ -28,3 +28,7 @@ https://blog.csdn.net/guoweish/article/details/47418953?utm_source=blogxgwz0
 
 百度地图点聚合提高效率
 https://blog.csdn.net/ztop_f/article/details/55256003
+
+
+百度地图：解决点聚合marker卡顿方案
+https://www.itsvse.com/thread-4929-1-1.html
